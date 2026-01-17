@@ -1,0 +1,14 @@
+{
+    "Python": [
+      "Develop and maintain Python-based backend services",
+      "Write clean, efficient Python code"
+    ],
+    "FastAPI": [
+      "Build REST APIs using FastAPI",
+      "Ensure high performance API responses"
+    ],
+    "PostgreSQL": [
+      "Design and optimize database schemas",
+      "Write complex SQL queries"
+    ]
+  }
